@@ -2,7 +2,9 @@
 
 class index
 {
-
+    /*
+     * BИспользуем библиотеку  BCMath
+     */
     function bigSum($x1, $x2)
     {
         echo $value = bcadd($x1, $x2);
